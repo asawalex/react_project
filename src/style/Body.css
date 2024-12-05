@@ -1,0 +1,25 @@
+
+.items{
+    margin-top: 30%;
+    justify-content: space-between;
+    display: block;
+    height: 100vh; 
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row; 
+    gap: 10px;
+}
+    .img{
+        box-shadow: 10px 10px 5px #888888;
+        margin: 30px;
+        width: 400px;
+        height: auto;
+ }
+
+ .body{
+         margin: 30px;
+         height: auto;
+         align-items: center;      
+ }  
+ 

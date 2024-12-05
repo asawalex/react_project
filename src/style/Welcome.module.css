@@ -1,0 +1,21 @@
+
+.container{
+    /* background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;
+   ; */
+   background-image: url('../assets/welcome.jpg');
+   width: 100%;
+   height: 50vh;
+   object-fit: cover;
+   position: absolute;
+   background-position: center;
+
+}
+.registart-but{
+    
+}
+.registart{
+    align-items: center;
+}
+  
